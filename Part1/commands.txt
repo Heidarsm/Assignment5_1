@@ -1,0 +1,2 @@
+change serial according to serial configuration guide 
+minicom -o -D /dev/ttys0 <- start minicom
